@@ -1,5 +1,5 @@
 ## Hola que tal!!👋
-Soy Víctor Daniel García Elacio, desarrollador de software especializado en el diseño e implementación de APIs REST y en el desarrollo de aplicaciones web basadas en arquitecturas MVC. Poseo experiencia práctica en el ecosistema Java/Spring y en la creación de material formativo para facilitar la adopción de buenas prácticas en control de versiones y colaboración.
+Soy Víctor Daniel García Elacio, desarrollador de software especializado en el diseño e implementación de APIs REST y en el desarrollo de aplicaciones web basadas en arquitecturas MVC y distribuidas. Poseo experiencia práctica en el ecosistema Java/Spring y en la creación de material formativo para facilitar la adopción de buenas prácticas en control de versiones y colaboración, a mis intereses se suman el desarrollo de aplicaciones distribuidas con microservicios y tecnologias como Spring Cloud, Eureka Server, Apache Kaftka. Entre las comunicaciones entre servicios poseo experiencia en comunicacions sincrona y nivel intermedio comunicacion asincrona.
 
 Áreas de experiencia
 - Desarrollo backend: diseño e implementación de APIs REST, modelado de datos y buenas prácticas en persistencia y transacciones.
